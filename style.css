@@ -1,0 +1,11 @@
+a{
+    text-decoration: underline;
+    color: #E0F0F0;
+}a:hover{
+    text-decoration: none;
+    color: #FFFFFF;
+}p{
+    font-family: serif;
+}dd{
+    font-family: serif;
+}
