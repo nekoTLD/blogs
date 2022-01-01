@@ -11,5 +11,6 @@ a{
 }.html{
     text-align: center;
 }.body{
+    margin: auto;
     text-align: left;
 }
