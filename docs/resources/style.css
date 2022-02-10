@@ -5,9 +5,11 @@ a{
     text-decoration: none;
     color: #FFFFFF;
 }p{
-    font-family: serif;
+    font-family: YuGothic, serif;
+    font-wight: 500;
 }dd{
-    font-family: serif;
+    font-family: YuGothic, serif;
+    font-wight: 500;
 }.html{
     text-align: center;
 }.body{
